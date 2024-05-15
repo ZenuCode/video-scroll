@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #15161b;
+}
+
+.container {
+  width: 75%;
+  height: 3000px;
+  background-color: #15161b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spacer {
+  height: 500px;
+  width: 100%;
+}
+
+canvas {
+  width: 100%;
+  height: 1000px;
+}
